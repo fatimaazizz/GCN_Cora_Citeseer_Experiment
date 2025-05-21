@@ -1,0 +1,9 @@
+Hidden Units,Dropout,Learning Rate,Final Accuracy,Final Loss,Plot
+16,0.3,0.01,0.635,0.3492991626262665,plots_citeseer/h16_d0.3_lr0.01.png
+16,0.3,0.005,0.682,0.7730321884155273,plots_citeseer/h16_d0.3_lr0.005.png
+16,0.5,0.01,0.68,0.38481801748275757,plots_citeseer/h16_d0.5_lr0.01.png
+16,0.5,0.005,0.605,0.8719459176063538,plots_citeseer/h16_d0.5_lr0.005.png
+32,0.3,0.01,0.667,0.1167341098189354,plots_citeseer/h32_d0.3_lr0.01.png
+32,0.3,0.005,0.66,0.3877069652080536,plots_citeseer/h32_d0.3_lr0.005.png
+32,0.5,0.01,0.688,0.1700156182050705,plots_citeseer/h32_d0.5_lr0.01.png
+32,0.5,0.005,0.668,0.4630996584892273,plots_citeseer/h32_d0.5_lr0.005.png
